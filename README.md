@@ -14,5 +14,6 @@ HTML
 CSS
 -consolidated various defined terms and images with identical properties
 =======
-The first homework assignment uses both html and css programming. The objective is to replicate the given Horiseon advertisment webpage.
->>>>>>> 920f519d6277d212a84e6f85a11097ae6907057b
+![image](https://user-images.githubusercontent.com/60293516/119354300-ebe65800-bc71-11eb-9867-c98c33beecf5.png)
+
+
