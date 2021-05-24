@@ -17,6 +17,7 @@ Changed multiple divs to semantic section
 
 CSS
 Consolidated various defined terms and images with identical properties
+
 =======
 ![image](https://user-images.githubusercontent.com/60293516/119354300-ebe65800-bc71-11eb-9867-c98c33beecf5.png)
 
