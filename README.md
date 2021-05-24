@@ -1,5 +1,5 @@
 # Coding-Bootcamp-Homework-1
-<<<<<<< HEAD
+
 The first assignment is to improve/clean up the exising html and css code for the Horiseon webpage:
 
 Edits are as follows (comments included in the code:)
