@@ -12,4 +12,3 @@ HTML
 
 CSS
 -consolidated various defined terms and images with identical properties
-
