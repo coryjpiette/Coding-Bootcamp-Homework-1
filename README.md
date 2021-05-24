@@ -13,6 +13,8 @@ Changed div to semantice header
 
 Changed  div to semantic nav
 
+Added a main
+
 Added id for search-engine-optimization to fix SEO link
 
 Added alt texts to all pictures
@@ -21,13 +23,15 @@ Changed div to semantic footer
 
 Changed div to aside for benefits descriptions on right-hand side
 
-Changed multiple divs to semantic section
+Changed multiple divs to semantic sections
 
 CSS:
 
 Consolidated various defined terms and images with identical properties
 
 Changed divs to nav for header li's
+
+Link to website: https://coryjpiette.github.io/Coding-Bootcamp-Homework-1/
 
 
 =======
