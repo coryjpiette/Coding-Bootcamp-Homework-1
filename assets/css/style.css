@@ -86,27 +86,27 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Consolidated benefit-lead, benefit-brand, and benefit-cost */
-.benefit-brand, .benefit-lead, .benefit-cost {
+/*Consolidated benefit-lead, benefit-brand, and benefit-cost into benefits-all */
+    .benefits-all {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*Consolidated benefit-lead, benefit-brand, and benefit-cost h3s */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
+    .benefits-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*Consolidated benefit-lead, benefit-brand, and benefit-cost imgs */
-.benefit-lead img, .benefit-brand img, .benefit-cost img   {
+    .benefits-all img {    
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*Consolidated search engine optimization, online reputation management, and social media marketing */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+/*Consolidated search engine optimization, online reputation management, and social media marketing into services*/
+    .services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,12 +115,12 @@ p {
     color: #ffffff;
 }
 /*Consolidated search engine optimization, online reputation management, and social media marketing images */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+   .services img {
     max-height: 200px;
 }
 
 /*Consolidated search engine optimization, online reputation management, and social media marketing h2s */
-.search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
+    .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }  
