@@ -1,4 +1,4 @@
-# Coding-Bootcamp-Homework-1
+# Coding Language Cleanup
 
 The first assignment is to improve/clean up the exising html and css code for the Horiseon webpage.
 
